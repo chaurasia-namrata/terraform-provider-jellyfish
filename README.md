@@ -12,5 +12,3 @@
 
 3. How does the API do authentication - basic, static token, JWT, Oauth    <br>
   - Not Applicable as no user managemnet functionality available  <br>
-
-
